@@ -1,6 +1,6 @@
 module github.com/elwinar/rambler
 
-go 1.18
+go 1.21.13
 
 require (
 	dario.cat/mergo v1.0.1
